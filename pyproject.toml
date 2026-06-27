@@ -48,7 +48,7 @@ dependencies = [
     "sentencepiece",
     "mcp",
     "adaptive-classifier",
-    "datasets",
+    "datasets>=3.4.0",
     "PyYAML",
     "selenium",
     "webdriver-manager",
